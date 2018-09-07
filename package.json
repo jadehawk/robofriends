@@ -2,9 +2,9 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jadehawk.github.io/robofriends/",
   "dependencies": {
     "gh-pages": "^1.2.0",
-    "homepage": "https://jadehawk.github.io/robofriends/",
     "react": "^16.5.0",
     "react-dom": "^16.5.0",
     "react-scripts": "1.1.5",
